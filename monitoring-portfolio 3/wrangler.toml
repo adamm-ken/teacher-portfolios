@@ -1,8 +1,0 @@
-name = "teacher-monitoring-portfolio"
-compatibility_date = "2024-01-01"
-pages_build_output_dir = "dist"
-
-[[kv_namespaces]]
-binding = "PORTFOLIOS"
-id = "fd7138f19293421d922607af3d25637c"
-preview_id = "Rfd7138f19293421d922607af3d25637c"
